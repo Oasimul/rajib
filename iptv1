@@ -163,11 +163,20 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
+http://tvserver.dflix.live:8082/34/index.m3u8?token=7730480485dc8f2f35e74550a854e8048b30c7cd-6175d9f4274926bd65197090f933287a-1597414305-1597403505&remote=103.237.38.252
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
+#EXTVLCOPT:network-caching=1000
 http://tvserver.dflix.live:8082/34/index.m3u8?token=7b084b1cf0bf3767f72e78bb2c90c4df618f407b-806b89ce8b0fc47d15efd954debae929-1597303146-1597292346&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/GOamt6U.jpg” group-title=”BANGLA ENT.”,Zee Bangla SD [IN] 
 #EXTVLCOPT:network-caching=1000
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla Cinema [IN] 
+#EXTVLCOPT:network-caching=1000
+http://tvserver.dflix.live:8082/29/index.m3u8?token=324a05e3355380ee4e75a8c52e674604edc32d94-a9105b28908c8c6e82af1921800a611f-1597414255-1597403455&remote=103.237.38.252
+
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] (1)
 #EXTVLCOPT:network-caching=1000
