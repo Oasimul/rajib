@@ -103,7 +103,7 @@ http://103.205.133.14/hls/channel24.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/8neLbDd.jpg” group-title=”BANGLA ENT.”,EKATTOR TV HD [BD]
 #EXTVLCOPT:network-caching=1000
-http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/GKZxePQ.png” group-title=”BANGLA ENT.”,JAMUNA TV [BD]
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
@@ -157,7 +157,7 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/D6jGMpw.jpg” group-title=”BANGLA ENT.”,Star Jalsha HD [IN] (2)
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/D6jGMpw.jpg” group-title=”BANGLA ENT.”,Star Jalsha HD [IN]
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 
@@ -167,7 +167,7 @@ http://tvserver.dflix.live:8082/34/index.m3u8?token=7730480485dc8f2f35e74550a854
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
-http://tvserver.dflix.live:8082/34/index.m3u8?token=7b084b1cf0bf3767f72e78bb2c90c4df618f407b-806b89ce8b0fc47d15efd954debae929-1597303146-1597292346&remote=103.237.38.252
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/GOamt6U.jpg” group-title=”BANGLA ENT.”,Zee Bangla SD [IN] 
 #EXTVLCOPT:network-caching=1000
@@ -178,29 +178,18 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 http://tvserver.dflix.live:8082/29/index.m3u8?token=324a05e3355380ee4e75a8c52e674604edc32d94-a9105b28908c8c6e82af1921800a611f-1597414255-1597403455&remote=103.237.38.252
 
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] (1)
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] (2)
-#EXTVLCOPT:network-caching=1000
-http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/09phOKV.jpg” group-title=”BANGLA ENT.”,Colors Bangla SD [IN]
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/RqJGZfm.png” group-title=”BANGLA ENT.”,Sony Aath HD [IN]
-#EXTVLCOPT:network-caching=1000
-https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
-
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/RqJGZfm.png” group-title=”BANGLA ENT.”,Sony Aath [IN] (1)
-#EXTVLCOPT:network-caching=1000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/123.m3u8
-
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/RqJGZfm.png” group-title=”BANGLA ENT.”,Sony Aath [IN] (2)
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/RqJGZfm.png” group-title=”BANGLA ENT.”,Sony Aath [IN] 
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.19/hls/sony8.m3u8
+
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/6VL1Ke9.jpg” group-title=”BANGLA ENT.”,Akash Aath [IN]
 #EXTVLCOPT:network-caching=1000
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/130.m3u8
@@ -377,11 +366,11 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/Xmtj40a.png” group-title=”HINDI ENT.”,SONY
 #EXTVLCOPT:network-caching=1000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/133.m3u8
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/HcUrbQp.jpg” group-title=”HINDI ENT.”,SONY HD
 #EXTVLCOPT:network-caching=1000
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/VjlrjwQ.jpg” group-title=”HINDI ENT.”,SONY SAB
 #EXTVLCOPT:network-caching=1000
@@ -389,7 +378,7 @@ http://103.205.133.19/hls/sonysab.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/Sg5i25M.png?1″ group-title=”HINDI ENT.”,SONY SAB HD
 #EXTVLCOPT:network-caching=1000
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/v9QJ1co.jpg” group-title=”HINDI ENT.”,SONY WAH
 #EXTVLCOPT:network-caching=1000
