@@ -772,7 +772,6 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/TcGPubh.jpg” group-title=”HINDI MOVIES”,Zee Cinema HD (1)
 #EXTVLCOPT:network-caching=1000
-http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/TcGPubh.jpg” group-title=”HINDI MOVIES”,Zee Cinema HD (2)
