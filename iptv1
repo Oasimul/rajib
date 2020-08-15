@@ -168,6 +168,10 @@ http://tvserver.dflix.live:8082/34/index.m3u8?token=7730480485dc8f2f35e74550a854
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
+#EXTVLCOPT:network-caching=1000
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/GOamt6U.jpg” group-title=”BANGLA ENT.”,Zee Bangla SD [IN] 
@@ -175,9 +179,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla Cinema [IN] 
-#EXTVLCOPT:network-caching=1000
-http://tvserver.dflix.live:8082/29/index.m3u8?token=324a05e3355380ee4e75a8c52e674604edc32d94-a9105b28908c8c6e82af1921800a611f-1597414255-1597403455&remote=103.237.38.252
-
+#EXTVLCOPT:network-caching=1000 
+http://tvserver.dflix.live:8082/29/index.m3u8?token=9bfba0629802bb55d217b7b02de54afb63f80253-a8266614a5f10406b4bdda34a9015911-1597475546-1597464746&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
@@ -729,7 +732,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD (2)
 #EXTVLCOPT:network-caching=1000
-hhttps://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/0piOCHd.png?1″ group-title=”HINDI MOVIES”,Sony MAX2 (1)
 #EXTVLCOPT:network-caching=1000
