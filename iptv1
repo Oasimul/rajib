@@ -162,6 +162,10 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/D6jGMpw.jpg” group-title=”BANGLA ENT.”,Star Jalsha HD [IN]
+#EXTVLCOPT:network-caching=1000
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
 http://tvserver.dflix.live:8082/34/index.m3u8?token=7730480485dc8f2f35e74550a854e8048b30c7cd-6175d9f4274926bd65197090f933287a-1597414305-1597403505&remote=103.237.38.252
