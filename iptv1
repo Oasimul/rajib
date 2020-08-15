@@ -191,6 +191,10 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.19/hls/sony8.m3u8
 
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/RqJGZfm.png” group-title=”BANGLA ENT.”,Sony Aath HD [IN] 
+#EXTVLCOPT:network-caching=1000
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/6VL1Ke9.jpg” group-title=”BANGLA ENT.”,Akash Aath [IN]
 #EXTVLCOPT:network-caching=1000
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/130.m3u8
