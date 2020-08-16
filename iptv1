@@ -184,7 +184,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/fLLse5Q.jpg” group-title=”BANGLA ENT.”,Zee Bangla Cinema [IN] 
 #EXTVLCOPT:network-caching=1000 
-http://tvserver.dflix.live:8082/29/index.m3u8?token=9bfba0629802bb55d217b7b02de54afb63f80253-a8266614a5f10406b4bdda34a9015911-1597475546-1597464746&remote=103.237.38.252
+http://tvserver.dflix.live:8082/29/index.m3u8?token=244cedcf9e30683a16f3062f0ced9864f8e4d7be-ab0bcbae2eb570a87ab53fd1f17645b7-1597608883-1597598083&remote=103.237.38.246
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/7DKPT1P.jpg?1″ group-title=”BANGLA ENT.”,Colors Bangla HD [IN] 
 #EXTVLCOPT:network-caching=1000
