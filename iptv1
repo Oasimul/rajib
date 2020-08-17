@@ -728,7 +728,7 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/YHa03Rq.png” group-title=”HINDI MOVIES”,SONY SET MAX (1)
 #EXTVLCOPT:network-caching=1000
-http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+http://mytv.fun:8080/c8h4jtk7l5/r3ndyqwph/672321
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD (1)
 #EXTVLCOPT:network-caching=1000
