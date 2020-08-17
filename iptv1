@@ -267,11 +267,12 @@ http://tv.flametv.design/zeee.m3u8?c=zbanglacnm&e=.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/hAmFkQB.jpg” group-title=”BANGLA ENT.”,Jalsha Movies HD [IN] (1)
 #EXTVLCOPT:network-caching=1000
-http://103.214.202.218:8081/live/hbo-64/playlist.m3u8
+http://172.17.50.112/live/antbd1001/index.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/hAmFkQB.jpg” group-title=”BANGLA ENT.”,Jalsha Movies HD [IN] (2)
 #EXTVLCOPT:network-caching=1000
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/hAmFkQB.jpg” group-title=”BANGLA ENT.”,Jalsha Movies [IN] (1)
 #EXTVLCOPT:network-caching=1000
