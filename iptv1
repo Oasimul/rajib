@@ -1070,7 +1070,7 @@ http://51.158.190.97/hls/stream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/5FgT60n.png” group-title=”ENGLISH MOVIES”,Film 4
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5FgT60n.png” group-title=”ENGLISH MOVIES”,Film 
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/008
 
