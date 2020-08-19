@@ -257,17 +257,13 @@ http://103.205.133.19/hls/andpicture.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD (1)
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD 
 #EXTVLCOPT:network-caching=1000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+http://216.144.250.174:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD (2)
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX 2
 #EXTVLCOPT:network-caching=1000
-http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/2hPF1YB.png” group-title=”HINDI MOVIES”,SONY SET MAX HD (4)
-#EXTVLCOPT:network-caching=1000
-http://tvserver.dflix.live:8082/77/index.m3u8?token=8723f40e3e4b7abda82a7fc12ce5f70bc634e8a6-4ac2b215fd16e4c6225158f597e434d7-1597696213-1597685413&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/3yFjd7k.jpg” group-title=”HINDI MOVIES”,Star Gold (1)
 #EXTVLCOPT:network-caching=1000
