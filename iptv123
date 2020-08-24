@@ -47,7 +47,7 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA ENT.",CHANNEL 9 HD [BD]
 #EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA ENT.",GAZI TV HD [BD]
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8
@@ -74,11 +74,11 @@ http://103.205.133.19/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA ENT.",MY TV HD [BD]
 #EXTVLCOPT:network-caching=2000
-http://103.205.133.14/hls/mytv.m3u8
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA ENT.",MOHONA TV [BD]
 #EXTVLCOPT:network-caching=2000
-http://103.205.133.14/hls/mohonatv.m3u8
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA ENT.",ATN NEWS [BD]
 #EXTVLCOPT:network-caching=2000
@@ -98,7 +98,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA ENT.",EKATTOR TV HD [BD]
 #EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BANGLA ENT.",JAMUNA TV [BD]
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
@@ -131,9 +131,9 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTVLCOPT:network-caching=2000
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA ENT.",ANANDA TV [BD]
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLA ENT.",RUPOSI BANGLA
 #EXTVLCOPT:network-caching=2000
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN]
 #EXTVLCOPT:network-caching=2000
@@ -185,19 +185,11 @@ https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN] (1)
 #EXTVLCOPT:network-caching=2000
-http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN] (2)
-#EXTVLCOPT:network-caching=2000
-http://tv.flametv.design/zeee.m3u8?c=zbanglacnm&e=.m3u8
+http://dflix.live:8082/29/index.m3u8?token=7c24e788d74b2b402d4dec6297f4023d9cac05aa-b235683c812b101a038998f60f1f2dc7-1598266409-1598255609&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (1)
 #EXTVLCOPT:network-caching=2000
 http://172.17.50.112/live/antbd1001/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (2)
-#EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (2)
 #EXTVLCOPT:network-caching=2000
@@ -245,18 +237,31 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD
 #EXTVLCOPT:network-caching=2000
-http://tvserver.dflix.live:8082/74/index.m3u8?token=d0b31518f4f80040e1165ea45919026669054d24-3704d412c2271416805dd39dd7942e48-1597695662-1597684862&remote=103.237.38.252
+http://103.205.133.14/hls/andtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV 
+#EXTVLCOPT:network-caching=2000
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD
+#EXTVLCOPT:network-caching=2000
+http://dflix.live:8082/74/index.m3u8?token=55a480b59c62df1183503d62e7c7201c7eb39c45-e7e3c66d55d840b4f6045dfb7503e36e-1598266492-1598255692&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture
-http://103.141.66.36/bpk-tv/10190/default/manifest.mpd?=.m3u8
+#EXTVLCOPT:network-caching=2000
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture
+#EXTVLCOPT:network-caching=2000
+http://dflix.live:8082/100/index.m3u8?token=ff2298aa30816dd7046fb47e70f59de9d266dfb9-c3d954f9ee33163d594988ba135c20d1-1598266563-1598255763&remote=103.237.38.252
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD (1)
 #EXTVLCOPT:network-caching=2000
 http://103.205.133.19/hls/andpicture.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD (2)
 #EXTVLCOPT:network-caching=2000
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",SONY SET MAX HD 
 #EXTVLCOPT:network-caching=2000
@@ -276,10 +281,11 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD (1)
 #EXTVLCOPT:network-caching=2000
-https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD (2)
 #EXTVLCOPT:network-caching=2000
+http://103.214.202.218:8081/live/stargold/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",STAR GOLD HS
@@ -293,6 +299,10 @@ https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema (2)
 #EXTVLCOPT:network-caching=2000
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema (2)
+#EXTVLCOPT:network-caching=2000
+http://dflix.live:8082/76/index.m3u8?token=68255288c6ab1cad34c16a98ea5a4dc10788fccf-d404947845d922f23138b4ed3098cf4f-1598266617-1598255817&remote=103.237.38.252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD (1)
 #EXTVLCOPT:network-caching=2000
