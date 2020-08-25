@@ -147,10 +147,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTVLCOPT:network-caching=2000
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] 
-#EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] 
 #EXTVLCOPT:network-caching=2000
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
@@ -169,7 +165,7 @@ http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA ENT.",Sony Aath HD [IN] 
 #EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA ENT.",Sangeet Bangla [IN]
 #EXTVLCOPT:network-caching=2000
@@ -189,7 +185,7 @@ http://dflix.live:8082/29/index.m3u8?token=7c24e788d74b2b402d4dec6297f4023d9cac0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (1)
 #EXTVLCOPT:network-caching=2000
-http://172.17.50.112/live/antbd1001/index.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (2)
 #EXTVLCOPT:network-caching=2000
