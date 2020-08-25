@@ -261,15 +261,15 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",SONY SET MAX HD 
 #EXTVLCOPT:network-caching=2000
-http://216.144.250.174:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://216.144.250.174:80/Sony_Max_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",SONY SET MAX HD 
 #EXTVLCOPT:network-caching=2000
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES",SONY SET MAX 2
 #EXTVLCOPT:network-caching=2000
-http://216.144.250.174:80/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+http://216.144.250.174:80/Sony_Max_HD_02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold (1)
 #EXTVLCOPT:network-caching=2000
