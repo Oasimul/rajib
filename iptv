@@ -1,6 +1,4 @@
-#EXTM3U
-
-
-#EXTINF:-1
-
-https://watchindia.net:8443/get.php?username=33364&password=07007&type=m3u
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://watchindia.net:8443/live/53364/15983/783.m3u8
