@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:157924
 #EXT-X-TARGETDURATION:1
-#EXTINF:1.200,
+#EXTINF:1,
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:1.200,
+#EXTINF:1,
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:1.202,
+#EXTINF:1,
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:1.198,
+#EXTINF:1,
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
