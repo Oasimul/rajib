@@ -2,31 +2,31 @@
 #EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA.",Sangsad TV
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10509
 #EXTINF:-1 tvg-id="" tvg-name="BTV  BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA.",BTV  BD
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10507
+
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA.",BTV World
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10508
 #EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA " tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA.",ATN BANGLA 
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10510
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD " tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA.",Channel i HD 
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10511
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD " tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA.",Channel i HD 
+http://c1live.com:8081/c1live/channeli/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA.",EKUSHEY TV
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10513
 #EXTINF:-1 tvg-id="" tvg-name="NTV " tvg-logo="https://i.imgur.com/3usnOla.png " group-title="BANGLA.",NTV 
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10514
+http://c1live.com:8081/c1live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://i.imgur.com/00HdGFD.jpg  " group-title="BANGLA.",BANGLA VISION HD
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10515
 #EXTINF:-1 tvg-id="" tvg-name=" MAASRANGA TV HD---" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA.", MAASRANGA TV HD---
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10516
 #EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA.",DEEPTO TV HD
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10517
+http://c1live.com:8081/c1live/deepto/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV " tvg-logo="https://i.imgur.com/tVujSyj.jpg " group-title="BANGLA.",NAGORIK TV 
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10518
+http://c1live.com:8081/c1live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" CHANNEL 9 HD" tvg-logo="https://i.imgur.com/sTDSKGR.png " group-title="BANGLA.", CHANNEL 9 HD
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10519
 #EXTINF:-1 tvg-id="" tvg-name=" GTV TV SD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA.", GTV TV SD
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10520
-#EXTINF:-1 tvg-id="" tvg-name="GTV TV HD " tvg-logo="https://i.imgur.com/Z0aOgZr.jpg " group-title="BANGLA.",GTV TV HD 
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10521
+http://c1live.com:8081/c1live/gazi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASAIN TV" tvg-logo="" group-title="BANGLA.",ASAIN TV
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10522
 #EXTINF:-1 tvg-id="" tvg-name=" SA TV HD " tvg-logo="https://i.imgur.com/PC5QaK3.jpg " group-title="BANGLA.", SA TV HD 
@@ -38,7 +38,7 @@ http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10525
 #EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA.",MY TV HD
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10526
 #EXTINF:-1 tvg-id="" tvg-name=" MOHONA TV " tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA.", MOHONA TV 
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10527
+http://c1live.com:8081/c1live/mohona/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV SD " tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA.",EKATTOR TV SD 
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10528
 #EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV HD " tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA.",EKATTOR TV HD 
@@ -70,9 +70,9 @@ http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10600
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="BANGLA.",COLORS BANGLA HD
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10601
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA SD " tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA.",COLORS BANGLA SD 
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10602
+http://c1live.com:8081/c1live/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY AATH SD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA.",SONY AATH SD
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10603
+http://c1live.com:8081/c1live/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY AATH HD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA.",SONY AATH HD
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10604
 #EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="BANGLA.",AKASH 8
@@ -84,7 +84,7 @@ http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10607
 #EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES SD " tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA.",JALSHA MOVIES SD 
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10608
 #EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA.",JALSHA MOVIES HD
-http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10609
+http://c1live.com:8081/c1live/jalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="BANGLA.",ZEE BANGLA CINEMA
 http://bdiptv.myftp.biz:25461/PROBALTV/ROMAN/10610
 #EXTINF:-1 tvg-id="" tvg-name="ANANDHO TV " tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="BANGLA.",ANANDHO TV 
