@@ -83,8 +83,8 @@ https://rhridoy136.shortcm.li/iqrabangla.m3u8
 
 
 
-
-
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg" group-title="Bangladesh",T Sports HD
+http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1,ATN Bangla
 http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8
 #EXTINF:-1,Channel I
